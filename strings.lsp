@@ -8,3 +8,10 @@
 (print (char str 1))
 (setf (aref str 2) #\a)
 (print str)
+
+(format t "~%")
+
+(print (array-total-size str))
+(print (array-dimensions str))
+
+(format t "~%")
