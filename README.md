@@ -1,6 +1,6 @@
-# lisp-tutorial
+![image](https://github.com/user-attachments/assets/a32321da-1b52-4e24-affc-e11fdf18356c)# lisp-tutorial
 
-![image](https://github.com/user-attachments/assets/90b813a8-d3a9-464c-8620-db894d8ec176)
+<img src="https://github.com/user-attachments/assets/90b813a8-d3a9-464c-8620-db894d8ec176" width="500">
 
 ## links
 [lisp tutorial on youtube](https://youtube.com/playlist?list=PL8Wp8DuXuiFwPBg8UmPBsbtzm9GG4wOfU&si=zK1Jb7drt2SY4Crb)
