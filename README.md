@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a32321da-1b52-4e24-affc-e11fdf18356c)# lisp-tutorial
+# lisp-tutorial
 
 <img src="https://github.com/user-attachments/assets/90b813a8-d3a9-464c-8620-db894d8ec176" width="500">
 
