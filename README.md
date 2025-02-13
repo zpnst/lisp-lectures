@@ -9,7 +9,7 @@
 
 ## Installation on Ubuntu/Debian
 
-bash```
+```bash
 sudo apt install sbcl
 sudo apt install clisp
 ```
