@@ -168,7 +168,6 @@
                         b
                         (+ (ash 1 i) (ash 1 (- 7 i))))))))
 
-
 (defun invert-bytes (n)
     (dotimes (i (ceiling (integer-length n) 8) n) ; цикл по байтам числа
         (setf n
@@ -177,4 +176,4 @@
                 (byte 8 (* i 8)) n)))
 )
 
-(print (invert-bytes res))
+(format t "~d~%" (invert-bytes res))
