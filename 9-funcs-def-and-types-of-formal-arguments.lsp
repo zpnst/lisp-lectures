@@ -161,9 +161,6 @@
 
     "Облочка для make-array, которая позволяет создать массив строк 
         инициализированного подстрокой, определяемой с помощью индексов start и end"
-    
-    (print keyword-pairs)
-
 
     (apply #'make-array dims
         :initial-element
