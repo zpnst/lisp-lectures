@@ -183,5 +183,3 @@
 ;;; apply calls function with arguments , just like funcall but with one difference: 
 ;;; the last of arguments is a list of objects, which are passed to function as separate arguments,
 ;;; rather than a single list. We say that apply spreads this list so that each individual element becomes an argument.
-
-
