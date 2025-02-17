@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/90b813a8-d3a9-464c-8620-db894d8ec176" width="555">
 
-## links
+## Links
 [Lisp lectures on youtube](https://youtube.com/playlist?list=PL8Wp8DuXuiFwPBg8UmPBsbtzm9GG4wOfU&si=zK1Jb7drt2SY4Crb)
 
 ## Common Lisp Implementations
