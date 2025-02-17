@@ -1,4 +1,4 @@
-# lisp-tutorial
+# lisp-lectures
 
 <img src="https://github.com/user-attachments/assets/90b813a8-d3a9-464c-8620-db894d8ec176" width="555">
 
